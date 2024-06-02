@@ -2,10 +2,12 @@
   "id": 1914064391,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-02",
+    "date:cessation_upper": "2024-06-02",
     "date:inception_lower": "2024-06-01",
     "date:inception_upper": "2024-06-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-01",
+    "edtf:cessation": "2024-06-02T03:27:16Z",
+    "edtf:inception": "2024-06-01T23:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87844395"
+    },
     "wof:country": "US",
     "wof:created": 1717344431,
     "wof:geomhash": "87e43b321087b5e7d68ac47fe0a6e824",
@@ -94,7 +99,7 @@
       1763588227,
       1159283849
     ],
-    "wof:lastmodified": 1717344431,
+    "wof:lastmodified": 1717346667,
     "wof:name": "AS251 (PVR-SFO)",
     "wof:parent_id": 1763588227,
     "wof:placetype": "custom",

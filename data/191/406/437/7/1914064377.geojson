@@ -2,10 +2,12 @@
   "id": 1914064377,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-02",
+    "date:cessation_upper": "2024-06-02",
     "date:inception_lower": "2024-06-01",
     "date:inception_upper": "2024-06-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-01",
+    "edtf:cessation": "2024-06-02T04:12:15Z",
+    "edtf:inception": "2024-06-01T22:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87837804"
+    },
     "wof:country": "US",
     "wof:created": 1717344426,
     "wof:geomhash": "c1b858affbd20b2c728ba535a4ce178e",
@@ -94,7 +99,7 @@
       1763588227,
       1159283849
     ],
-    "wof:lastmodified": 1717344426,
+    "wof:lastmodified": 1717346645,
     "wof:name": "AS1444 (CUN-SFO)",
     "wof:parent_id": 1763588227,
     "wof:placetype": "custom",
