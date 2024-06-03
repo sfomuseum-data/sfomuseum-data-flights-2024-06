@@ -2,10 +2,12 @@
   "id": 1914075407,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-02",
+    "date:cessation_upper": "2024-06-02",
     "date:inception_lower": "2024-06-02",
     "date:inception_upper": "2024-06-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-02",
+    "edtf:cessation": "2024-06-02T20:54:00Z",
+    "edtf:inception": "2024-06-02T19:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2024-06-02",
@@ -48,6 +50,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87900278"
+    },
     "wof:country": "US",
     "wof:created": 1717431394,
     "wof:geomhash": "d887ded7dd7ecdf1f3f44081817da1ef",
@@ -88,7 +93,7 @@
       1763552131,
       1763588149
     ],
-    "wof:lastmodified": 1717431394,
+    "wof:lastmodified": 1717433277,
     "wof:name": "MX600 (PVU-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

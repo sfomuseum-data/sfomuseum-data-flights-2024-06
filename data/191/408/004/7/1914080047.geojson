@@ -2,10 +2,12 @@
   "id": 1914080047,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-02",
+    "date:cessation_upper": "2024-06-02",
     "date:inception_lower": "2024-06-02",
     "date:inception_upper": "2024-06-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-02",
+    "edtf:cessation": "2024-06-02T02:22:00Z",
+    "edtf:inception": "2024-06-02T00:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -114.4957645,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102529173,
     "sfomuseum:base_flight_id": "20240602-D-ANA-7328",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87842127",
+      "swim:gufi": "KO75330700"
+    },
     "wof:country": "US",
     "wof:created": 1717433010,
     "wof:geomhash": "029159a11f35cb7f92e728b838da58ba",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1914080047,
     "wof:involves": [
-      102529173,
       102527513,
       1159285413,
       1763588319,
-      1159283875
+      1159283875,
+      1159289407,
+      102529173
     ],
-    "wof:lastmodified": 1717433010,
+    "wof:lastmodified": 1717433256,
     "wof:name": "UA2305 (SFO-ABQ)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",

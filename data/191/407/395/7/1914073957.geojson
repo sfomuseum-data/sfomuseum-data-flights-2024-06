@@ -2,10 +2,12 @@
   "id": 1914073957,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-03",
+    "date:cessation_upper": "2024-06-03",
     "date:inception_lower": "2024-06-02",
     "date:inception_upper": "2024-06-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-02",
+    "edtf:cessation": "2024-06-03T02:49:23Z",
+    "edtf:inception": "2024-06-02T00:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "FJI",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240602-A-FJI-5815",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N305AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87844379",
+      "swim:gufi": "KS84373101"
+    },
     "wof:country": "US",
     "wof:created": 1717430878,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -92,9 +105,10 @@
       102532251,
       1159283813,
       1763588135,
-      1159283717
+      1159283717,
+      1377564285
     ],
-    "wof:lastmodified": 1717430878,
+    "wof:lastmodified": 1717433269,
     "wof:name": "AS1163 (PDX-SFO)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",
