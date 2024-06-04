@@ -2,10 +2,12 @@
   "id": 1914085041,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-03",
+    "date:cessation_upper": "2024-06-03",
     "date:inception_lower": "2024-06-03",
     "date:inception_upper": "2024-06-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-03",
+    "edtf:cessation": "2024-06-03T18:40:28Z",
+    "edtf:inception": "2024-06-03T08:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "KL",
     "flysfo:date": "2024-06-03",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "88040479"
+    },
     "wof:country": "US",
     "wof:created": 1717517650,
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
@@ -51,7 +56,7 @@
       1159284613,
       -1
     ],
-    "wof:lastmodified": 1717517650,
+    "wof:lastmodified": 1717519596,
     "wof:name": "KL277 (AMS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
