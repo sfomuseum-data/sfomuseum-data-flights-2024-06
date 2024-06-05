@@ -2,10 +2,12 @@
   "id": 1914096535,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-04",
+    "date:cessation_upper": "2024-06-04",
     "date:inception_lower": "2024-06-04",
     "date:inception_upper": "2024-06-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-04",
+    "edtf:cessation": "2024-06-04T14:36:00Z",
+    "edtf:inception": "2024-06-04T13:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2024-06-04",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "88056360"
+    },
     "wof:country": "US",
     "wof:created": 1717604254,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -88,7 +93,7 @@
       1159285591,
       1763588185
     ],
-    "wof:lastmodified": 1717604254,
+    "wof:lastmodified": 1717605969,
     "wof:name": "WN573 (LAX-SFO)",
     "wof:parent_id": 1763588185,
     "wof:placetype": "custom",

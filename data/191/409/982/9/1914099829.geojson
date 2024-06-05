@@ -2,10 +2,12 @@
   "id": 1914099829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-04",
+    "date:cessation_upper": "2024-06-04",
     "date:inception_lower": "2024-06-04",
     "date:inception_upper": "2024-06-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-04",
+    "edtf:cessation": "2024-06-04T12:09:56Z",
+    "edtf:inception": "2024-06-04T06:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "icao:base_airline": "ETD",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:base_flight_id": "20240604-D-ETD-8272",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N990JL",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "88039223",
+      "swim:gufi": "KO14276300"
+    },
     "wof:country": "US",
     "wof:created": 1717605365,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -92,9 +101,10 @@
       102527513,
       1159284583,
       1763588211,
-      1159285587
+      1159285587,
+      1159289411
     ],
-    "wof:lastmodified": 1717605365,
+    "wof:lastmodified": 1717605963,
     "wof:name": "B6134 (SFO-BOS)",
     "wof:parent_id": 1763588211,
     "wof:placetype": "custom",

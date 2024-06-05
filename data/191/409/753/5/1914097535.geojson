@@ -2,10 +2,12 @@
   "id": 1914097535,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-04",
+    "date:cessation_upper": "2024-06-04",
     "date:inception_lower": "2024-06-04",
     "date:inception_upper": "2024-06-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-04",
+    "edtf:cessation": "2024-06-04T19:20:00Z",
+    "edtf:inception": "2024-06-04T17:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "88070372"
+    },
     "wof:country": "US",
     "wof:created": 1717604593,
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
@@ -94,7 +102,7 @@
       1763588267,
       1159283539
     ],
-    "wof:lastmodified": 1717604593,
+    "wof:lastmodified": 1717605955,
     "wof:name": "WS1508 (YYC-SFO)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",

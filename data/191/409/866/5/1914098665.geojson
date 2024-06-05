@@ -2,10 +2,12 @@
   "id": 1914098665,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-04",
+    "date:cessation_upper": "2024-06-04",
     "date:inception_lower": "2024-06-04",
     "date:inception_upper": "2024-06-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-04",
+    "edtf:cessation": "2024-06-04T05:13:00Z",
+    "edtf:inception": "2024-06-04T03:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.616825,
     "lbl:longitude": -122.381021,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20240604-D-BAW-7543",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N320AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "88034673",
+      "swim:gufi": "KO06793300"
+    },
     "wof:country": "US",
     "wof:created": 1717604963,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -88,13 +97,14 @@
     ],
     "wof:id": 1914098665,
     "wof:involves": [
-      102533269,
       102527513,
       1159283813,
       1763588137,
-      1159284021
+      1159284021,
+      1377564285,
+      102533269
     ],
-    "wof:lastmodified": 1717604963,
+    "wof:lastmodified": 1717605958,
     "wof:name": "AS1065 (SFO-SEA)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",
