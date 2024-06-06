@@ -2,10 +2,12 @@
   "id": 1914189479,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-05",
+    "date:cessation_upper": "2024-06-05",
     "date:inception_lower": "2024-06-05",
     "date:inception_upper": "2024-06-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-05",
+    "edtf:cessation": "2024-06-05T06:34:00Z",
+    "edtf:inception": "2024-06-05T00:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.057846,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240605-A-ANZ-4807",
@@ -53,6 +57,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "88116592"
+    },
     "wof:country": "US",
     "wof:created": 1717689874,
     "wof:geomhash": "d6fced31e2f30d79d54c9b38b6916cc7",
@@ -88,13 +95,14 @@
     ],
     "wof:id": 1914189479,
     "wof:involves": [
-      102527513,
-      102554351,
       1159283597,
       1763588155,
-      1159283697
+      1159283697,
+      1528104575,
+      102527513,
+      102554351
     ],
-    "wof:lastmodified": 1717689874,
+    "wof:lastmodified": 1717692852,
     "wof:name": "AC765 (YUL-SFO)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",
