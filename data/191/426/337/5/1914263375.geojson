@@ -2,10 +2,12 @@
   "id": 1914263375,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-12",
+    "date:cessation_upper": "2024-06-12",
     "date:inception_lower": "2024-06-12",
     "date:inception_upper": "2024-06-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-12",
+    "edtf:cessation": "2024-06-12T22:50:00Z",
+    "edtf:inception": "2024-06-12T21:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2024-06-12",
@@ -48,6 +50,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "88881275"
+    },
     "wof:country": "US",
     "wof:created": 1718296755,
     "wof:geomhash": "8db666380c01edea8882f91918b43729",
@@ -88,7 +93,7 @@
       1763552131,
       1763588147
     ],
-    "wof:lastmodified": 1718296755,
+    "wof:lastmodified": 1718297305,
     "wof:name": "MX606 (SFO-GJT)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914264255,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-12",
+    "date:cessation_upper": "2024-06-12",
     "date:inception_lower": "2024-06-12",
     "date:inception_upper": "2024-06-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-12",
+    "edtf:cessation": "2024-06-12T20:45:00Z",
+    "edtf:inception": "2024-06-12T18:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:base_flight_id": "20240612-D-ANZ-9051",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "88867823",
+      "swim:gufi": "KO52905400"
+    },
     "wof:country": "US",
     "wof:created": 1718297072,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1914264255,
     "wof:involves": [
+      1159283697,
+      1159289945,
       102531189,
       102527513,
       1159285413,
-      1763588315,
-      1159283697
+      1763588315
     ],
-    "wof:lastmodified": 1718297072,
+    "wof:lastmodified": 1718297308,
     "wof:name": "UA501 (SFO-DEN)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",

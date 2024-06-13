@@ -2,10 +2,12 @@
   "id": 1914264061,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-12",
+    "date:cessation_upper": "2024-06-12",
     "date:inception_lower": "2024-06-12",
     "date:inception_upper": "2024-06-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-12",
+    "edtf:cessation": "2024-06-12T21:16:12Z",
+    "edtf:inception": "2024-06-12T08:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-06-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 26.067878999999998,
     "geom:longitude": -0.6778954999999982,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617615,
     "lbl:longitude": -122.390247,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102553219,
     "sfomuseum:departure_id": 102527513,
@@ -48,6 +52,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "88822611",
+      "swim:gufi": "KO14739400"
+    },
     "wof:country": "US",
     "wof:created": 1718297000,
     "wof:geomhash": "d86898d5d90d953f6630362144c30ee0",
@@ -83,12 +91,13 @@
     ],
     "wof:id": 1914264061,
     "wof:involves": [
+      1763588441,
+      1159289993,
       102553219,
       102527513,
-      1159285413,
-      1763588441
+      1159285413
     ],
-    "wof:lastmodified": 1718297000,
+    "wof:lastmodified": 1718297307,
     "wof:name": "UA189 (SFO-MNL)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",

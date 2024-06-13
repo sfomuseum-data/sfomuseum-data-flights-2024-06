@@ -2,10 +2,12 @@
   "id": 1914262141,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-12",
+    "date:cessation_upper": "2024-06-12",
     "date:inception_lower": "2024-06-12",
     "date:inception_upper": "2024-06-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-12",
+    "edtf:cessation": "2024-06-12T21:51:17Z",
+    "edtf:inception": "2024-06-12T20:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20240612-D-AAL-9434",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N294AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "88882095"
+    },
     "wof:country": "US",
     "wof:created": 1718296309,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1914262141,
     "wof:involves": [
+      1377564285,
       102527209,
       102527513,
       1159283813,
       1763588141,
       1159283849
     ],
-    "wof:lastmodified": 1718296309,
+    "wof:lastmodified": 1718297298,
     "wof:name": "AS607 (SFO-LAS)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",
