@@ -2,10 +2,12 @@
   "id": 1914271153,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-13",
+    "date:cessation_upper": "2024-06-13",
     "date:inception_lower": "2024-06-13",
     "date:inception_upper": "2024-06-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-13",
+    "edtf:cessation": "2024-06-13T17:56:54Z",
+    "edtf:inception": "2024-06-13T13:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "ACA",
     "icao:base_airline": "AUA",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:base_flight_id": "20240613-D-AUA-8318",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CGEHI",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "88940885",
+      "swim:gufi": "KO40367500"
+    },
     "wof:country": "US",
     "wof:created": 1718382447,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914271153,
     "wof:involves": [
+      1159283947,
+      1528104575,
       102555091,
       102527513,
       1159283597,
-      1763588159,
-      1159283947
+      1763588159
     ],
-    "wof:lastmodified": 1718382447,
+    "wof:lastmodified": 1718383645,
     "wof:name": "AC736 (SFO-YYZ)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

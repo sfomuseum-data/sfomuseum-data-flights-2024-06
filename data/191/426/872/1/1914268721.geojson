@@ -2,10 +2,12 @@
   "id": 1914268721,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-13",
+    "date:cessation_upper": "2024-06-13",
     "date:inception_lower": "2024-06-13",
     "date:inception_upper": "2024-06-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-13",
+    "edtf:cessation": "2024-06-13T06:45:00Z",
+    "edtf:inception": "2024-06-13T04:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2024-06-13",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "88918050"
+    },
     "wof:country": "US",
     "wof:created": 1718381610,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -88,7 +93,7 @@
       1159284401,
       1763588425
     ],
-    "wof:lastmodified": 1718381610,
+    "wof:lastmodified": 1718383651,
     "wof:name": "F93437 (DEN-SFO)",
     "wof:parent_id": 1763588425,
     "wof:placetype": "custom",
