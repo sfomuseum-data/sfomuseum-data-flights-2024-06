@@ -1,0 +1,72 @@
+{
+  "id": 1914272561,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-13",
+    "date:inception_upper": "2024-06-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-06-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "EI",
+    "flysfo:date": "2024-06-13",
+    "flysfo:estimated_timestamp": 1718329560,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "EI960",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-DUB",
+    "flysfo:scheduled_timestamp": 1718327700,
+    "flysfo:timestamp": 1718329560,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-6.246362,53.425842",
+    "geom:latitude": 45.521916000000004,
+    "geom:longitude": -64.3086525,
+    "iata:airline": "EI",
+    "icao:airline": "EIN",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283495,
+    "sfomuseum:arrival_id": 102547639,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240613-D-EIN-960",
+    "sfomuseum:flight_number": [
+      "EIN960",
+      "EI960"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1718382927,
+    "wof:geomhash": "3dda75dcf1fae64b97c7a2b018cfa114",
+    "wof:hierarchy": [
+      {
+        "custom_id": 1914272561,
+        "flight_id": 1914272561
+      }
+    ],
+    "wof:id": 1914272561,
+    "wof:involves": [
+      102547639,
+      102527513,
+      1159283495,
+      -1
+    ],
+    "wof:lastmodified": 1718382927,
+    "wof:name": "EI960 (SFO-DUB)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-06",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -6.246362,
+    53.425842
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-6.246362,53.425842]],"type":"MultiPoint"}
+}
