@@ -2,10 +2,12 @@
   "id": 1914277461,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-15",
+    "date:cessation_upper": "2024-06-15",
     "date:inception_lower": "2024-06-14",
     "date:inception_upper": "2024-06-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-14",
+    "edtf:cessation": "2024-06-15T01:28:51Z",
+    "edtf:inception": "2024-06-14T20:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89096298"
+    },
     "wof:country": "US",
     "wof:created": 1718467792,
     "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
@@ -94,7 +99,7 @@
       1763588145,
       1159285043
     ],
-    "wof:lastmodified": 1718467792,
+    "wof:lastmodified": 1718470453,
     "wof:name": "AS633 (ANC-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914280773,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-14",
+    "date:cessation_upper": "2024-06-14",
     "date:inception_lower": "2024-06-14",
     "date:inception_upper": "2024-06-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-14",
+    "edtf:cessation": "2024-06-14T22:20:29Z",
+    "edtf:inception": "2024-06-14T19:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:date": "2024-06-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.0718085,
     "geom:longitude": -112.83645849999999,
     "iata:airline": "AM",
+    "icao:aircraft": "B738",
     "icao:airline": "AMX",
     "lbl:latitude": 37.613288,
     "lbl:longitude": -122.389396,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102536387,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "XAAMU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +56,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89166546"
+    },
     "wof:country": "US",
     "wof:created": 1718469142,
     "wof:geomhash": "c9806dbd281b9c6ccae24134b59a20cd",
@@ -83,12 +94,13 @@
     ],
     "wof:id": 1914280773,
     "wof:involves": [
+      1159289871,
       102536387,
       102527513,
       1159283539,
       1763588409
     ],
-    "wof:lastmodified": 1718469142,
+    "wof:lastmodified": 1718470450,
     "wof:name": "AM9482 (SFO-GDL)",
     "wof:parent_id": 1763588409,
     "wof:placetype": "custom",

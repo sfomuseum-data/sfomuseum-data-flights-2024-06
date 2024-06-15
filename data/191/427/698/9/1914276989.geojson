@@ -2,10 +2,12 @@
   "id": 1914276989,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-14",
+    "date:cessation_upper": "2024-06-14",
     "date:inception_lower": "2024-06-14",
     "date:inception_upper": "2024-06-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-14",
+    "edtf:cessation": "2024-06-14T19:43:54Z",
+    "edtf:inception": "2024-06-14T07:36:24Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89158489"
+    },
     "wof:country": "US",
     "wof:created": 1718467602,
     "wof:geomhash": "07839d38a937070012f963bfe77eb5da",
@@ -94,7 +99,7 @@
       1763588449,
       1159283597
     ],
-    "wof:lastmodified": 1718467602,
+    "wof:lastmodified": 1718470450,
     "wof:name": "NZ8 (AKL-SFO)",
     "wof:parent_id": 1763588449,
     "wof:placetype": "custom",
