@@ -2,10 +2,12 @@
   "id": 1914292047,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-06-15",
-    "date:inception_upper": "2024-06-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-15",
+    "date:cessation_lower": "2024-06-16",
+    "date:cessation_upper": "2024-06-16",
+    "date:inception_lower": "2024-06-16",
+    "date:inception_upper": "2024-06-16",
+    "edtf:cessation": "2024-06-16T05:17:00Z",
+    "edtf:inception": "2024-06-16T02:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534097,
     "sfomuseum:base_flight_id": "20240615-D-ANA-6492",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N62892",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89125304",
+      "swim:gufi": "KO80573700"
+    },
     "wof:country": "US",
     "wof:created": 1718556518,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914292047,
     "wof:involves": [
+      1377564285,
       102534097,
       102527513,
       1159285413,
       1763588351,
       1159283875
     ],
-    "wof:lastmodified": 1718556518,
+    "wof:lastmodified": 1718556758,
     "wof:name": "UA514 (SFO-IAH)",
     "wof:parent_id": 1763588351,
     "wof:placetype": "custom",
