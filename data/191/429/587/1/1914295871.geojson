@@ -2,10 +2,12 @@
   "id": 1914295871,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2024-06-16",
     "date:inception_upper": "2024-06-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-16",
+    "edtf:cessation": "2024-06-17T00:39:00Z",
+    "edtf:inception": "2024-06-16T20:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SY",
     "flysfo:date": "2024-06-16",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89295752"
+    },
     "wof:country": "US",
     "wof:created": 1718641099,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -88,7 +93,7 @@
       1159285227,
       1763588407
     ],
-    "wof:lastmodified": 1718641099,
+    "wof:lastmodified": 1718642936,
     "wof:name": "SY395 (MSP-SFO)",
     "wof:parent_id": 1763588407,
     "wof:placetype": "custom",

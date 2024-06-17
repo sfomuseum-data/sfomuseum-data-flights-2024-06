@@ -2,10 +2,12 @@
   "id": 1914294927,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-16",
+    "date:cessation_upper": "2024-06-16",
     "date:inception_lower": "2024-06-16",
     "date:inception_upper": "2024-06-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-16",
+    "edtf:cessation": "2024-06-16T19:13:00Z",
+    "edtf:inception": "2024-06-16T17:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240616-A-KLM-6276",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N506DA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89277116",
+      "swim:gufi": "KU58561102"
+    },
     "wof:country": "US",
     "wof:created": 1718640762,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -92,9 +105,10 @@
       102527363,
       1159284261,
       1763588245,
-      1159284613
+      1159284613,
+      1377564297
     ],
-    "wof:lastmodified": 1718640762,
+    "wof:lastmodified": 1718642934,
     "wof:name": "DL902 (SLC-SFO)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

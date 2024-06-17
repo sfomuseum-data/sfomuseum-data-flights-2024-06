@@ -2,10 +2,12 @@
   "id": 1914294331,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2024-06-16",
     "date:inception_upper": "2024-06-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-16",
+    "edtf:cessation": "2024-06-17T04:35:31Z",
+    "edtf:inception": "2024-06-16T23:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89313287"
+    },
     "wof:country": "US",
     "wof:created": 1718640543,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -94,7 +99,7 @@
       1763588143,
       1159283849
     ],
-    "wof:lastmodified": 1718640543,
+    "wof:lastmodified": 1718642932,
     "wof:name": "AS876 (HNL-SFO)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914297649,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2024-06-16",
     "date:inception_upper": "2024-06-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-16",
+    "edtf:cessation": "2024-06-17T05:43:54Z",
+    "edtf:inception": "2024-06-16T19:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NH",
     "flysfo:base_airline": "",
@@ -39,6 +41,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +59,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89290560"
+    },
     "wof:country": "US",
     "wof:created": 1718641741,
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
@@ -94,7 +103,7 @@
       1763588447,
       1159285639
     ],
-    "wof:lastmodified": 1718641741,
+    "wof:lastmodified": 1718642926,
     "wof:name": "NH7 (SFO-NRT)",
     "wof:parent_id": 1763588447,
     "wof:placetype": "custom",

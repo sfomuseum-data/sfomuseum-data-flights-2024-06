@@ -2,10 +2,12 @@
   "id": 1914300011,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-16",
+    "date:cessation_upper": "2024-06-16",
     "date:inception_lower": "2024-06-16",
     "date:inception_upper": "2024-06-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-16",
+    "edtf:cessation": "2024-06-16T05:49:24Z",
+    "edtf:inception": "2024-06-16T04:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:base_flight_id": "20240616-D-DLH-9366",
@@ -53,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89230632",
+      "swim:gufi": "KO09291100"
+    },
     "wof:country": "US",
     "wof:created": 1718642580,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1914300011,
     "wof:involves": [
+      1763588159,
+      1159286015,
+      1528104575,
       102526751,
       102527513,
-      1159285413,
-      1763588159,
-      1159286015
+      1159285413
     ],
-    "wof:lastmodified": 1718642580,
+    "wof:lastmodified": 1718642910,
     "wof:name": "UA1187 (SFO-PHX)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

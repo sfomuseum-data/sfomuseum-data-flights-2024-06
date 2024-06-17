@@ -2,10 +2,12 @@
   "id": 1914293207,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2024-06-16",
     "date:inception_upper": "2024-06-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-16",
+    "edtf:cessation": "2024-06-17T02:31:00Z",
+    "edtf:inception": "2024-06-16T21:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2024-06-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.419367,
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528659,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N177US",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89300552",
+      "swim:gufi": "KT71939100"
+    },
     "wof:country": "US",
     "wof:created": 1718640107,
     "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1914293207,
     "wof:involves": [
+      1159289411,
       102527513,
       102528659,
       1159283849,
       1763588197
     ],
-    "wof:lastmodified": 1718640107,
+    "wof:lastmodified": 1718642911,
     "wof:name": "AA2184 (CLT-SFO)",
     "wof:parent_id": 1763588197,
     "wof:placetype": "custom",
