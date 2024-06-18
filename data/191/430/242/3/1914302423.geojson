@@ -2,10 +2,12 @@
   "id": 1914302423,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-06-17",
-    "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-17",
+    "date:cessation_lower": "2024-06-18",
+    "date:cessation_upper": "2024-06-18",
+    "date:inception_lower": "2024-06-18",
+    "date:inception_upper": "2024-06-18",
+    "edtf:cessation": "2024-06-18T06:21:49Z",
+    "edtf:inception": "2024-06-18T04:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "QTR",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240617-A-QTR-3355",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N464AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89330921",
+      "swim:gufi": "KS16031200"
+    },
     "wof:country": "US",
     "wof:created": 1718726888,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -92,9 +105,10 @@
       102533269,
       1159283813,
       1763588147,
-      1159286153
+      1159286153,
+      1377564285
     ],
-    "wof:lastmodified": 1718726888,
+    "wof:lastmodified": 1718729179,
     "wof:name": "AS1309 (SEA-SFO)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914308603,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-17",
+    "edtf:cessation": "2024-06-17T23:27:45Z",
+    "edtf:inception": "2024-06-17T22:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-06-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.591019,
     "geom:longitude": -119.2977885,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527733,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N871UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "89469874",
+      "swim:gufi": "KO66299200"
+    },
     "wof:country": "US",
     "wof:created": 1718728989,
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
@@ -46,12 +59,12 @@
     ],
     "wof:id": 1914308603,
     "wof:involves": [
+      1159289407,
       102527733,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1718728989,
+    "wof:lastmodified": 1718729175,
     "wof:name": "UA8247 (SFO-BOI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914308207,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-06-17",
-    "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-17",
+    "date:cessation_lower": "2024-06-18",
+    "date:cessation_upper": "2024-06-18",
+    "date:inception_lower": "2024-06-18",
+    "date:inception_upper": "2024-06-18",
+    "edtf:cessation": "2024-06-18T04:56:00Z",
+    "edtf:inception": "2024-06-18T02:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528541,
     "sfomuseum:base_flight_id": "20240617-D-ANA-7372",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N485UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89323532",
+      "swim:gufi": "KO84021200"
+    },
     "wof:country": "US",
     "wof:created": 1718728856,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914308207,
     "wof:involves": [
+      1763588463,
+      1159283875,
+      1159292085,
       102528541,
       102527513,
-      1159285413,
-      1763588463,
-      1159283875
+      1159285413
     ],
-    "wof:lastmodified": 1718728856,
+    "wof:lastmodified": 1718729173,
     "wof:name": "UA1342 (SFO-DFW)",
     "wof:parent_id": 1763588463,
     "wof:placetype": "custom",

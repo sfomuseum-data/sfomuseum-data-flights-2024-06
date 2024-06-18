@@ -2,10 +2,12 @@
   "id": 1914308647,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-06-17",
-    "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-17",
+    "date:cessation_lower": "2024-06-18",
+    "date:cessation_upper": "2024-06-18",
+    "date:inception_lower": "2024-06-18",
+    "date:inception_upper": "2024-06-18",
+    "edtf:cessation": "2024-06-18T12:44:35Z",
+    "edtf:inception": "2024-06-18T02:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -57.5518295,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102549057,
     "sfomuseum:base_flight_id": "20240617-D-ACA-5032",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N2645U",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89325350",
+      "swim:gufi": "KO02001300"
+    },
     "wof:country": "US",
     "wof:created": 1718729005,
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914308647,
     "wof:involves": [
+      1159283597,
+      1159289993,
       102549057,
       102527513,
       1159285413,
-      1763588465,
-      1159283597
+      1763588465
     ],
-    "wof:lastmodified": 1718729005,
+    "wof:lastmodified": 1718729175,
     "wof:name": "UA926 (SFO-FRA)",
     "wof:parent_id": 1763588465,
     "wof:placetype": "custom",

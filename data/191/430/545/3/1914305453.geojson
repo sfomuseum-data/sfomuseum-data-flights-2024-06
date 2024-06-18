@@ -2,10 +2,12 @@
   "id": 1914305453,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-17",
+    "edtf:cessation": "2024-06-17T23:44:48Z",
+    "edtf:inception": "2024-06-17T19:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89383354"
+    },
     "wof:country": "US",
     "wof:created": 1718727923,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -94,7 +99,7 @@
       1763588153,
       1159283697
     ],
-    "wof:lastmodified": 1718727923,
+    "wof:lastmodified": 1718729164,
     "wof:name": "AC2412 (SFO-YYZ)",
     "wof:parent_id": 1763588153,
     "wof:placetype": "custom",

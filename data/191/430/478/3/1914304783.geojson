@@ -2,10 +2,12 @@
   "id": 1914304783,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-18",
+    "date:cessation_upper": "2024-06-18",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-17",
+    "edtf:cessation": "2024-06-18T00:43:00Z",
+    "edtf:inception": "2024-06-17T23:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-06-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N17316",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "89491590",
+      "swim:gufi": "KS76440200"
+    },
     "wof:country": "US",
     "wof:created": 1718727700,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -46,12 +59,12 @@
     ],
     "wof:id": 1914304783,
     "wof:involves": [
+      1528104575,
       102527513,
       102532251,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1718727700,
+    "wof:lastmodified": 1718729160,
     "wof:name": "UA8146 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
