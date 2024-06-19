@@ -2,10 +2,12 @@
   "id": 1914310831,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-18",
+    "date:cessation_upper": "2024-06-18",
     "date:inception_lower": "2024-06-18",
     "date:inception_upper": "2024-06-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-18",
+    "edtf:cessation": "2024-06-18T01:39:55Z",
+    "edtf:inception": "2024-06-18T00:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240618-A-BAW-7607",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N478AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89414044"
+    },
     "wof:country": "US",
     "wof:created": 1718813330,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1914310831,
     "wof:involves": [
+      1763588147,
+      1159284021,
+      1377564285,
       102527513,
       102533795,
-      1159283813,
-      1763588147,
-      1159284021
+      1159283813
     ],
-    "wof:lastmodified": 1718813330,
+    "wof:lastmodified": 1718815686,
     "wof:name": "AS527 (LAX-SFO)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",

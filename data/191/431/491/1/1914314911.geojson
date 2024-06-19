@@ -2,10 +2,12 @@
   "id": 1914314911,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-18",
+    "date:cessation_upper": "2024-06-18",
     "date:inception_lower": "2024-06-18",
     "date:inception_upper": "2024-06-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-18",
+    "edtf:cessation": "2024-06-18T23:35:44Z",
+    "edtf:inception": "2024-06-18T18:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533997,
     "sfomuseum:base_flight_id": "20240618-D-AAL-7458",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89477479"
+    },
     "wof:country": "US",
     "wof:created": 1718814714,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -92,9 +103,10 @@
       102527513,
       1159283813,
       1763588143,
-      1159283849
+      1159283849,
+      1528104577
     ],
-    "wof:lastmodified": 1718814714,
+    "wof:lastmodified": 1718815691,
     "wof:name": "AS877 (SFO-HNL)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

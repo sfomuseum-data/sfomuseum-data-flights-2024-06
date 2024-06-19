@@ -2,10 +2,12 @@
   "id": 1914317135,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-19",
+    "date:cessation_upper": "2024-06-19",
     "date:inception_lower": "2024-06-18",
     "date:inception_upper": "2024-06-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-18",
+    "edtf:cessation": "2024-06-19T01:45:00Z",
+    "edtf:inception": "2024-06-18T23:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-06-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.333376,
     "geom:longitude": -114.4957645,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102529173,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N480UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "89590110",
+      "swim:gufi": "KO77120300"
+    },
     "wof:country": "US",
     "wof:created": 1718815480,
     "wof:geomhash": "029159a11f35cb7f92e728b838da58ba",
@@ -46,12 +59,12 @@
     ],
     "wof:id": 1914317135,
     "wof:involves": [
+      1159292085,
       102529173,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1718815480,
+    "wof:lastmodified": 1718815680,
     "wof:name": "UA8105 (SFO-ABQ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

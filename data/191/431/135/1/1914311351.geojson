@@ -2,10 +2,12 @@
   "id": 1914311351,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-19",
+    "date:cessation_upper": "2024-06-19",
     "date:inception_lower": "2024-06-18",
     "date:inception_upper": "2024-06-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-18",
+    "edtf:cessation": "2024-06-19T02:56:10Z",
+    "edtf:inception": "2024-06-18T15:25:47Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CZ",
     "flysfo:date": "2024-06-18",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89455057"
+    },
     "wof:country": "US",
     "wof:created": 1718813514,
     "wof:geomhash": "247e1e318adb65668d4614fd3ca74ae2",
@@ -88,7 +93,7 @@
       1159284165,
       1763588429
     ],
-    "wof:lastmodified": 1718813514,
+    "wof:lastmodified": 1718815688,
     "wof:name": "CZ657 (CAN-SFO)",
     "wof:parent_id": 1763588429,
     "wof:placetype": "custom",

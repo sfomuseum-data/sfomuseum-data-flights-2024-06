@@ -2,10 +2,12 @@
   "id": 1914314771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-18",
+    "date:cessation_upper": "2024-06-18",
     "date:inception_lower": "2024-06-18",
     "date:inception_upper": "2024-06-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-18",
+    "edtf:cessation": "2024-06-18T17:47:26Z",
+    "edtf:inception": "2024-06-18T15:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.044202,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.616987,
     "lbl:longitude": -122.382479,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102536441,
     "sfomuseum:base_flight_id": "20240618-D-AAL-9379",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N556AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89456297"
+    },
     "wof:country": "US",
     "wof:created": 1718814666,
     "wof:geomhash": "7babf6b9ba279da48525185e0724d212",
@@ -92,9 +104,10 @@
       102527513,
       1159283813,
       1763588129,
-      1159283849
+      1159283849,
+      1159289871
     ],
-    "wof:lastmodified": 1718814666,
+    "wof:lastmodified": 1718815691,
     "wof:name": "AS1344 (SFO-SJD)",
     "wof:parent_id": 1763588129,
     "wof:placetype": "custom",

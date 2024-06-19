@@ -2,10 +2,12 @@
   "id": 1914310243,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-18",
+    "date:cessation_upper": "2024-06-18",
     "date:inception_lower": "2024-06-18",
     "date:inception_upper": "2024-06-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-18",
+    "edtf:cessation": "2024-06-18T17:59:00Z",
+    "edtf:inception": "2024-06-18T14:23:51Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89451577"
+    },
     "wof:country": "US",
     "wof:created": 1718813129,
     "wof:geomhash": "d1cf00e952c40abdeded8d31cdcdf72b",
@@ -94,7 +99,7 @@
       1763588427,
       1159284261
     ],
-    "wof:lastmodified": 1718813129,
+    "wof:lastmodified": 1718815660,
     "wof:name": "AM622 (GDL-SFO)",
     "wof:parent_id": 1763588427,
     "wof:placetype": "custom",

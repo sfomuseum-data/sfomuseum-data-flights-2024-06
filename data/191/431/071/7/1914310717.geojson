@@ -2,10 +2,12 @@
   "id": 1914310717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-18",
+    "date:cessation_upper": "2024-06-18",
     "date:inception_lower": "2024-06-18",
     "date:inception_upper": "2024-06-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-18",
+    "edtf:cessation": "2024-06-18T20:57:31Z",
+    "edtf:inception": "2024-06-18T19:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89478108"
+    },
     "wof:country": "US",
     "wof:created": 1718813293,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -94,7 +99,7 @@
       1763588139,
       1159284193
     ],
-    "wof:lastmodified": 1718813293,
+    "wof:lastmodified": 1718815685,
     "wof:name": "AS1284 (SEA-SFO)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",

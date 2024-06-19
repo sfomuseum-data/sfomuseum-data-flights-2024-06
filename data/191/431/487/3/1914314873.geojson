@@ -2,10 +2,12 @@
   "id": 1914314873,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-18",
+    "date:cessation_upper": "2024-06-18",
     "date:inception_lower": "2024-06-18",
     "date:inception_upper": "2024-06-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-18",
+    "edtf:cessation": "2024-06-18T17:04:17Z",
+    "edtf:inception": "2024-06-18T14:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102521851,
     "sfomuseum:base_flight_id": "20240618-D-AAL-7408",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N264AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89451042"
+    },
     "wof:country": "US",
     "wof:created": 1718814702,
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 1914314873,
     "wof:involves": [
+      1377564285,
       102521851,
       102527513,
       1159283813,
       1763588145,
       1159283849
     ],
-    "wof:lastmodified": 1718814702,
+    "wof:lastmodified": 1718815673,
     "wof:name": "AS512 (SFO-AUS)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",
