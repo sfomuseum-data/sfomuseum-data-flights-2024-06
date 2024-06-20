@@ -2,10 +2,12 @@
   "id": 1914381789,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-20",
+    "date:cessation_upper": "2024-06-20",
     "date:inception_lower": "2024-06-19",
     "date:inception_upper": "2024-06-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-19",
+    "edtf:cessation": "2024-06-20T00:03:00Z",
+    "edtf:inception": "2024-06-19T20:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SY",
     "flysfo:date": "2024-06-19",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89677653"
+    },
     "wof:country": "US",
     "wof:created": 1718901613,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -88,7 +93,7 @@
       1159285227,
       1763588215
     ],
-    "wof:lastmodified": 1718901613,
+    "wof:lastmodified": 1718902060,
     "wof:name": "SY394 (SFO-MSP)",
     "wof:parent_id": 1763588215,
     "wof:placetype": "custom",
