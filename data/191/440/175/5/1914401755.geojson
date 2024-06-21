@@ -2,10 +2,12 @@
   "id": 1914401755,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-20",
+    "date:cessation_upper": "2024-06-20",
     "date:inception_lower": "2024-06-20",
     "date:inception_upper": "2024-06-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-20",
+    "edtf:cessation": "2024-06-20T09:27:00Z",
+    "edtf:inception": "2024-06-20T08:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-06-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620244,
     "lbl:longitude": -122.387813,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -48,6 +52,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89620269",
+      "swim:gufi": "KL17453500"
+    },
     "wof:country": "US",
     "wof:created": 1718986941,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -83,12 +91,13 @@
     ],
     "wof:id": 1914401755,
     "wof:involves": [
-      102527513,
       102533795,
       1159285413,
-      1763588307
+      1763588307,
+      1159289985,
+      102527513
     ],
-    "wof:lastmodified": 1718986941,
+    "wof:lastmodified": 1718988571,
     "wof:name": "UA3917 (LAX-SFO)",
     "wof:parent_id": 1763588307,
     "wof:placetype": "custom",

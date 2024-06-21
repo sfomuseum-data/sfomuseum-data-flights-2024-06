@@ -2,10 +2,12 @@
   "id": 1914398545,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-20",
+    "date:cessation_upper": "2024-06-20",
     "date:inception_lower": "2024-06-20",
     "date:inception_upper": "2024-06-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-20",
+    "edtf:cessation": "2024-06-20T16:39:00Z",
+    "edtf:inception": "2024-06-20T15:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "OZ",
     "flysfo:date": "2024-06-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.535978,
     "geom:longitude": 2.1453445,
     "iata:airline": "OZ",
+    "icao:aircraft": "B744",
     "icao:airline": "AAR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289915,
     "sfomuseum:airline_id": 1159283917,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102556451,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "HL7413",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "89725896"
+    },
     "wof:country": "US",
     "wof:created": 1718985802,
     "wof:geomhash": "83e2c60a8819c96e9fa3721059c5eac5",
@@ -49,9 +60,9 @@
       102527513,
       102556451,
       1159283917,
-      -1
+      1159289915
     ],
-    "wof:lastmodified": 1718985802,
+    "wof:lastmodified": 1718988558,
     "wof:name": "OZ284 (ICN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
