@@ -2,10 +2,12 @@
   "id": 1914407917,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-21",
+    "date:cessation_upper": "2024-06-21",
     "date:inception_lower": "2024-06-21",
     "date:inception_upper": "2024-06-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-21",
+    "edtf:cessation": "2024-06-21T15:00:18Z",
+    "edtf:inception": "2024-06-21T13:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240621-A-KAL-6113",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N933AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89741102"
+    },
     "wof:country": "US",
     "wof:created": 1719072507,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 1914407917,
     "wof:involves": [
+      1528104577,
       102527513,
       102533269,
       1159283813,
       1763588203,
       1159284625
     ],
-    "wof:lastmodified": 1719072507,
+    "wof:lastmodified": 1719074919,
     "wof:name": "AS1082 (SEA-SFO)",
     "wof:parent_id": 1763588203,
     "wof:placetype": "custom",

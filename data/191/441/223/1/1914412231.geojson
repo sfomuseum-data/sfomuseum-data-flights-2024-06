@@ -2,10 +2,12 @@
   "id": 1914412231,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-22",
+    "date:cessation_upper": "2024-06-22",
     "date:inception_lower": "2024-06-21",
     "date:inception_upper": "2024-06-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-21",
+    "edtf:cessation": "2024-06-22T10:13:12Z",
+    "edtf:inception": "2024-06-21T23:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DE",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89808922"
+    },
     "wof:country": "US",
     "wof:created": 1719074065,
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
@@ -94,7 +99,7 @@
       1763588401,
       1159283813
     ],
-    "wof:lastmodified": 1719074065,
+    "wof:lastmodified": 1719074927,
     "wof:name": "DE2093 (SFO-FRA)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",

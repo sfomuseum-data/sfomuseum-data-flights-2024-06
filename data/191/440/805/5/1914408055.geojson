@@ -2,10 +2,12 @@
   "id": 1914408055,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-22",
+    "date:cessation_upper": "2024-06-22",
     "date:inception_lower": "2024-06-21",
     "date:inception_upper": "2024-06-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-21",
+    "edtf:cessation": "2024-06-22T01:09:59Z",
+    "edtf:inception": "2024-06-21T20:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -136.169672,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "QFA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240621-A-QFA-3765",
@@ -53,6 +57,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89789872",
+      "swim:gufi": "KS83057600"
+    },
     "wof:country": "US",
     "wof:created": 1719072555,
     "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
@@ -92,9 +100,10 @@
       102531979,
       1159283813,
       1763588211,
-      1159285043
+      1159285043,
+      1159289871
     ],
-    "wof:lastmodified": 1719072555,
+    "wof:lastmodified": 1719074920,
     "wof:name": "AS633 (ANC-SFO)",
     "wof:parent_id": 1763588211,
     "wof:placetype": "custom",

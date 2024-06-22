@@ -2,10 +2,12 @@
   "id": 1914410697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-21",
+    "date:cessation_upper": "2024-06-21",
     "date:inception_lower": "2024-06-21",
     "date:inception_upper": "2024-06-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-21",
+    "edtf:cessation": "2024-06-21T18:39:45Z",
+    "edtf:inception": "2024-06-21T16:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89759628"
+    },
     "wof:country": "US",
     "wof:created": 1719073496,
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
@@ -94,7 +99,7 @@
       1763588267,
       1159283539
     ],
-    "wof:lastmodified": 1719073496,
+    "wof:lastmodified": 1719074916,
     "wof:name": "WS1508 (YYC-SFO)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",
