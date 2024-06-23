@@ -2,10 +2,12 @@
   "id": 1914421737,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-22",
+    "date:cessation_upper": "2024-06-22",
     "date:inception_lower": "2024-06-22",
     "date:inception_upper": "2024-06-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-22",
+    "edtf:cessation": "2024-06-22T20:22:03Z",
+    "edtf:inception": "2024-06-22T18:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.1959315,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102554947,
     "sfomuseum:base_flight_id": "20240622-D-ACA-4025",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N838UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89874704",
+      "swim:gufi": "KO46516700"
+    },
     "wof:country": "US",
     "wof:created": 1719160899,
     "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 1914421737,
     "wof:involves": [
+      1159283597,
+      1159289407,
       102554947,
       102527513,
       1159285413,
-      1763588351,
-      1159283597
+      1763588351
     ],
-    "wof:lastmodified": 1719160899,
+    "wof:lastmodified": 1719161191,
     "wof:name": "UA205 (SFO-YYC)",
     "wof:parent_id": 1763588351,
     "wof:placetype": "custom",
