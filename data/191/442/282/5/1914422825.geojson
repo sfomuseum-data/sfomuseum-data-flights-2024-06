@@ -2,10 +2,12 @@
   "id": 1914422825,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-06-23",
-    "date:inception_upper": "2024-06-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-23",
+    "date:cessation_lower": "2024-06-24",
+    "date:cessation_upper": "2024-06-24",
+    "date:inception_lower": "2024-06-24",
+    "date:inception_upper": "2024-06-24",
+    "edtf:cessation": "2024-06-24T05:45:00Z",
+    "edtf:inception": "2024-06-24T01:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "icao:base_airline": "FIN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240623-A-FIN-4047",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N951AA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89915056",
+      "swim:gufi": "KG00860201"
+    },
     "wof:country": "US",
     "wof:created": 1719244952,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914422825,
     "wof:involves": [
+      1159289871,
       102527513,
       102533631,
       1159283849,
       1763588201,
       1159284389
     ],
-    "wof:lastmodified": 1719244952,
+    "wof:lastmodified": 1719247927,
     "wof:name": "AA2034 (ORD-SFO)",
     "wof:parent_id": 1763588201,
     "wof:placetype": "custom",

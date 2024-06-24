@@ -2,10 +2,12 @@
   "id": 1914428427,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-23",
+    "date:cessation_upper": "2024-06-23",
     "date:inception_lower": "2024-06-23",
     "date:inception_upper": "2024-06-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-23",
+    "edtf:cessation": "2024-06-23T21:05:59Z",
+    "edtf:inception": "2024-06-23T20:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-06-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.669650000000004,
     "geom:longitude": -122.2917035,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531041,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N662DN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "89980758",
+      "swim:gufi": "KO71745100"
+    },
     "wof:country": "US",
     "wof:created": 1719247039,
     "wof:geomhash": "8933d78fb39ee159acf7eb0738f97ef5",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 1914428427,
     "wof:involves": [
-      102531041,
-      102527513,
       1159284261,
-      -1
+      1159289939,
+      102531041,
+      102527513
     ],
-    "wof:lastmodified": 1719247039,
+    "wof:lastmodified": 1719247948,
     "wof:name": "DL8839 (SFO-OAK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

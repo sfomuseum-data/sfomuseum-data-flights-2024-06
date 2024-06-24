@@ -2,10 +2,12 @@
   "id": 1914426143,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-23",
+    "date:cessation_upper": "2024-06-23",
     "date:inception_lower": "2024-06-23",
     "date:inception_upper": "2024-06-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-23",
+    "edtf:cessation": "2024-06-23T06:33:00Z",
+    "edtf:inception": "2024-06-23T01:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -139.2030015,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.618774,
     "lbl:longitude": -122.384852,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240623-A-CMP-2386",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N47512",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89917130",
+      "swim:gufi": "KO18504100"
+    },
     "wof:country": "US",
     "wof:created": 1719246185,
     "wof:geomhash": "d5ad4a83d3d679d1b3fe86e419b08d84",
@@ -88,13 +97,14 @@
     ],
     "wof:id": 1914426143,
     "wof:involves": [
-      102527513,
       102532939,
       1159285413,
       1763588341,
-      1159284211
+      1159284211,
+      1528104577,
+      102527513
     ],
-    "wof:lastmodified": 1719246185,
+    "wof:lastmodified": 1719247941,
     "wof:name": "UA435 (KOA-SFO)",
     "wof:parent_id": 1763588341,
     "wof:placetype": "custom",

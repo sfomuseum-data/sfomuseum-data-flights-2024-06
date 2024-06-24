@@ -2,10 +2,12 @@
   "id": 1914430137,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-06-23",
-    "date:inception_upper": "2024-06-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-23",
+    "date:cessation_lower": "2024-06-24",
+    "date:cessation_upper": "2024-06-24",
+    "date:inception_lower": "2024-06-24",
+    "date:inception_upper": "2024-06-24",
+    "edtf:cessation": "2024-06-24T19:23:34Z",
+    "edtf:inception": "2024-06-24T07:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 2.1453445,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.617458,
     "lbl:longitude": -122.391079,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102556451,
     "sfomuseum:base_flight_id": "20240623-D-AAR-6621",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N799UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "89924581",
+      "swim:gufi": "KO08286200"
+    },
     "wof:country": "US",
     "wof:created": 1719247694,
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914430137,
     "wof:involves": [
-      102556451,
-      102527513,
       1159285413,
       1763588443,
-      1159283917
+      1159283917,
+      1159289985,
+      102556451,
+      102527513
     ],
-    "wof:lastmodified": 1719247694,
+    "wof:lastmodified": 1719247928,
     "wof:name": "UA805 (SFO-ICN)",
     "wof:parent_id": 1763588443,
     "wof:placetype": "custom",
