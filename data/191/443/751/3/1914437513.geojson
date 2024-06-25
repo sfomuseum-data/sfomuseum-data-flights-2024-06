@@ -2,10 +2,12 @@
   "id": 1914437513,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-24",
+    "date:cessation_upper": "2024-06-24",
     "date:inception_lower": "2024-06-24",
     "date:inception_upper": "2024-06-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-24",
+    "edtf:cessation": "2024-06-24T19:40:00Z",
+    "edtf:inception": "2024-06-24T16:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SY",
     "flysfo:date": "2024-06-24",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90039462"
+    },
     "wof:country": "US",
     "wof:created": 1719333785,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -88,7 +93,7 @@
       1159285227,
       1763588409
     ],
-    "wof:lastmodified": 1719333785,
+    "wof:lastmodified": 1719334310,
     "wof:name": "SY392 (SFO-MSP)",
     "wof:parent_id": 1763588409,
     "wof:placetype": "custom",

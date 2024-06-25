@@ -2,10 +2,12 @@
   "id": 1914434863,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-24",
+    "date:cessation_upper": "2024-06-24",
     "date:inception_lower": "2024-06-24",
     "date:inception_upper": "2024-06-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-24",
+    "edtf:cessation": "2024-06-24T20:22:30Z",
+    "edtf:inception": "2024-06-24T17:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90047413"
+    },
     "wof:country": "US",
     "wof:created": 1719332799,
     "wof:geomhash": "5251ebd94a7bdc5872b19729ff2a2674",
@@ -94,7 +99,7 @@
       1763588267,
       1159284261
     ],
-    "wof:lastmodified": 1719332799,
+    "wof:lastmodified": 1719334289,
     "wof:name": "WS1030 (YEG-SFO)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",
