@@ -2,10 +2,12 @@
   "id": 1914446197,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-25",
+    "date:cessation_upper": "2024-06-25",
     "date:inception_lower": "2024-06-25",
     "date:inception_upper": "2024-06-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-25",
+    "edtf:cessation": "2024-06-25T17:52:00Z",
+    "edtf:inception": "2024-06-25T16:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20240625-D-AAR-6306",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N36280",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90124184",
+      "swim:gufi": "KO44897300"
+    },
     "wof:country": "US",
     "wof:created": 1719420187,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -92,9 +104,10 @@
       102527513,
       1159285413,
       1763588311,
-      1159283917
+      1159283917,
+      1159289871
     ],
-    "wof:lastmodified": 1719420187,
+    "wof:lastmodified": 1719420525,
     "wof:name": "UA1986 (SFO-SEA)",
     "wof:parent_id": 1763588311,
     "wof:placetype": "custom",

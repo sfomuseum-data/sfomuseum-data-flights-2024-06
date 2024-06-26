@@ -2,10 +2,12 @@
   "id": 1914442339,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-25",
+    "date:cessation_upper": "2024-06-25",
     "date:inception_lower": "2024-06-25",
     "date:inception_upper": "2024-06-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-25",
+    "edtf:cessation": "2024-06-25T14:07:00Z",
+    "edtf:inception": "2024-06-25T12:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -114.4957645,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240625-A-ACA-4033",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N442UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90105297",
+      "swim:gufi": "KA29275300"
+    },
     "wof:country": "US",
     "wof:created": 1719418914,
     "wof:geomhash": "8fe6791c85dc44fbddffd72416ea0024",
@@ -92,9 +105,10 @@
       102529173,
       1159285413,
       1763588319,
-      1159283597
+      1159283597,
+      1159292085
     ],
-    "wof:lastmodified": 1719418914,
+    "wof:lastmodified": 1719420514,
     "wof:name": "UA222 (ABQ-SFO)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",
