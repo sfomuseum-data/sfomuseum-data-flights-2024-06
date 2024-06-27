@@ -2,10 +2,12 @@
   "id": 1914453329,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-27",
+    "date:cessation_upper": "2024-06-27",
     "date:inception_lower": "2024-06-26",
     "date:inception_upper": "2024-06-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-26",
+    "edtf:cessation": "2024-06-27T06:59:11Z",
+    "edtf:inception": "2024-06-26T20:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "JL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90252045"
+    },
     "wof:country": "US",
     "wof:created": 1719506490,
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
@@ -94,7 +99,7 @@
       1763588413,
       1159283849
     ],
-    "wof:lastmodified": 1719506490,
+    "wof:lastmodified": 1719507194,
     "wof:name": "JL57 (SFO-NRT)",
     "wof:parent_id": 1763588413,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914450523,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-26",
+    "date:cessation_upper": "2024-06-26",
     "date:inception_lower": "2024-06-26",
     "date:inception_upper": "2024-06-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-26",
+    "edtf:cessation": "2024-06-26T18:41:00Z",
+    "edtf:inception": "2024-06-26T05:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-06-26",
@@ -21,9 +23,11 @@
     "geom:latitude": -0.02513150000000053,
     "geom:longitude": 11.236410499999998,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61844,
     "lbl:longitude": -122.392214,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102557779,
@@ -48,6 +52,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90188854",
+      "swim:gufi": "KO62459400"
+    },
     "wof:country": "US",
     "wof:created": 1719505443,
     "wof:geomhash": "87faaa2af80cb57714136e3a98b5d686",
@@ -86,9 +94,10 @@
       102527513,
       102557779,
       1159285413,
-      1763588461
+      1763588461,
+      1159293215
     ],
-    "wof:lastmodified": 1719505443,
+    "wof:lastmodified": 1719507171,
     "wof:name": "UA3916 (MEL-SFO)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",

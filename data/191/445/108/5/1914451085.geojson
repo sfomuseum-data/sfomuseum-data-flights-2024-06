@@ -2,10 +2,12 @@
   "id": 1914451085,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-27",
+    "date:cessation_upper": "2024-06-27",
     "date:inception_lower": "2024-06-26",
     "date:inception_upper": "2024-06-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-26",
+    "edtf:cessation": "2024-06-27T00:02:43Z",
+    "edtf:inception": "2024-06-26T21:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90257308"
+    },
     "wof:country": "US",
     "wof:created": 1719505655,
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
@@ -94,7 +99,7 @@
       1763588267,
       1159284261
     ],
-    "wof:lastmodified": 1719505655,
+    "wof:lastmodified": 1719507175,
     "wof:name": "WS1522 (YYC-SFO)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",
