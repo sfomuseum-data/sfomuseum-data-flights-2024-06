@@ -2,10 +2,12 @@
   "id": 1914458779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-27",
+    "date:cessation_upper": "2024-06-27",
     "date:inception_lower": "2024-06-27",
     "date:inception_upper": "2024-06-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-27",
+    "edtf:cessation": "2024-06-27T08:10:11Z",
+    "edtf:inception": "2024-06-27T04:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-06-27",
@@ -48,6 +50,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90287212"
+    },
     "wof:country": "US",
     "wof:created": 1719591815,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -88,7 +93,7 @@
       1159285413,
       1763588315
     ],
-    "wof:lastmodified": 1719591815,
+    "wof:lastmodified": 1719593557,
     "wof:name": "UA3926 (ORD-SFO)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",

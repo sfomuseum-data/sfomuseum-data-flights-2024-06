@@ -2,10 +2,12 @@
   "id": 1914459643,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-27",
+    "date:cessation_upper": "2024-06-27",
     "date:inception_lower": "2024-06-27",
     "date:inception_upper": "2024-06-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-27",
+    "edtf:cessation": "2024-06-27T20:14:00Z",
+    "edtf:inception": "2024-06-27T16:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:date": "2024-06-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "lbl:latitude": 37.618249,
     "lbl:longitude": -122.381477,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CGVUH",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90384382",
+      "swim:gufi": "KO46640500"
+    },
     "wof:country": "US",
     "wof:created": 1719592128,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1914459643,
     "wof:involves": [
+      1813375783,
       102555091,
       102527513,
       1159283597,
       1763588153
     ],
-    "wof:lastmodified": 1719592128,
+    "wof:lastmodified": 1719593566,
     "wof:name": "AC2138 (SFO-YYZ)",
     "wof:parent_id": 1763588153,
     "wof:placetype": "custom",

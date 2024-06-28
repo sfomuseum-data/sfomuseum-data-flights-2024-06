@@ -2,10 +2,12 @@
   "id": 1914457469,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-27",
+    "date:cessation_upper": "2024-06-27",
     "date:inception_lower": "2024-06-27",
     "date:inception_upper": "2024-06-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-27",
+    "edtf:cessation": "2024-06-27T16:18:19Z",
+    "edtf:inception": "2024-06-27T14:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F8",
     "flysfo:date": "2024-06-27",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90312571"
+    },
     "wof:country": "US",
     "wof:created": 1719591348,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -88,7 +93,7 @@
       1763552143,
       1763588267
     ],
-    "wof:lastmodified": 1719591348,
+    "wof:lastmodified": 1719593547,
     "wof:name": "F81848 (YVR-SFO)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",

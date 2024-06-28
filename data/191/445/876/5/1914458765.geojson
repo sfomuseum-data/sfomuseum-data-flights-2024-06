@@ -2,10 +2,12 @@
   "id": 1914458765,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-27",
+    "date:cessation_upper": "2024-06-27",
     "date:inception_lower": "2024-06-27",
     "date:inception_upper": "2024-06-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-27",
+    "edtf:cessation": "2024-06-27T21:21:00Z",
+    "edtf:inception": "2024-06-27T19:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240627-A-ACA-5158",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90346263",
+      "swim:gufi": "KS66743500"
+    },
     "wof:country": "US",
     "wof:created": 1719591811,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -88,13 +96,14 @@
     ],
     "wof:id": 1914458765,
     "wof:involves": [
-      102527513,
       102555307,
       1159285413,
       1763588291,
-      1159283597
+      1159283597,
+      1159289407,
+      102527513
     ],
-    "wof:lastmodified": 1719591811,
+    "wof:lastmodified": 1719593557,
     "wof:name": "UA375 (YVR-SFO)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",

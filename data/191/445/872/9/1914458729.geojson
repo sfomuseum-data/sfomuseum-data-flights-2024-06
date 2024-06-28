@@ -2,10 +2,12 @@
   "id": 1914458729,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-27",
+    "date:cessation_upper": "2024-06-27",
     "date:inception_lower": "2024-06-27",
     "date:inception_upper": "2024-06-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-27",
+    "edtf:cessation": "2024-06-27T07:56:00Z",
+    "edtf:inception": "2024-06-27T03:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618678,
     "lbl:longitude": -122.385955,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240627-A-ANZ-9332",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90284656",
+      "swim:gufi": "KG84216400"
+    },
     "wof:country": "US",
     "wof:created": 1719591798,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -92,9 +100,10 @@
       102533631,
       1159285413,
       1763588279,
-      1159283697
+      1159283697,
+      1377564285
     ],
-    "wof:lastmodified": 1719591798,
+    "wof:lastmodified": 1719593557,
     "wof:name": "UA2645 (ORD-SFO)",
     "wof:parent_id": 1763588279,
     "wof:placetype": "custom",

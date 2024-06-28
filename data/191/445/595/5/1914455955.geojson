@@ -2,10 +2,12 @@
   "id": 1914455955,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-27",
+    "date:cessation_upper": "2024-06-27",
     "date:inception_lower": "2024-06-27",
     "date:inception_upper": "2024-06-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-27",
+    "edtf:cessation": "2024-06-27T05:46:00Z",
+    "edtf:inception": "2024-06-27T01:54:12Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -39,6 +41,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +59,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90277458"
+    },
     "wof:country": "US",
     "wof:created": 1719590812,
     "wof:geomhash": "4224d1c4c9907a232ddfbf90e60373e4",
@@ -94,7 +103,7 @@
       1763588413,
       1159284261
     ],
-    "wof:lastmodified": 1719590812,
+    "wof:lastmodified": 1719593536,
     "wof:name": "AM698 (MEX-SFO)",
     "wof:parent_id": 1763588413,
     "wof:placetype": "custom",
