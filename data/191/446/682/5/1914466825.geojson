@@ -1,0 +1,109 @@
+{
+  "id": 1914466825,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-28",
+    "date:inception_upper": "2024-06-28",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-06-28",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2024-06-28",
+    "flysfo:estimated_timestamp": 1719569460,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA3750",
+    "flysfo:gate": "E9",
+    "flysfo:journey": "MKE-SFO",
+    "flysfo:scheduled_timestamp": 1719567360,
+    "flysfo:timestamp": 1719569460,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-87.896339,42.949572",
+    "geom:latitude": 40.283781000000005,
+    "geom:longitude": -105.133641,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.619124,
+    "lbl:longitude": -122.383949,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102530849,
+    "sfomuseum:flight_id": "20240628-A-UAL-3750",
+    "sfomuseum:flight_number": [
+      "UAL3750",
+      "UA3750"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1763588121,
+      102527513,
+      1763588335,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1763588351,
+      1763588269,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1719678081,
+    "wof:geomhash": "1e284fd777a7bf1f8b464fea635cfcb1",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588335,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1914466825,
+        "flight_id": 1914466825,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1763588351,
+        "wing_id": 1763588269
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588335,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914466825,
+        "flight_id": 1914466825,
+        "region_id": 85688637,
+        "venue_id": 1763588351,
+        "wing_id": 1763588269
+      }
+    ],
+    "wof:id": 1914466825,
+    "wof:involves": [
+      102527513,
+      102530849,
+      1159285413,
+      1763588351
+    ],
+    "wof:lastmodified": 1719678081,
+    "wof:name": "UA3750 (MKE-SFO)",
+    "wof:parent_id": 1763588351,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2024-06",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -87.896339,
+    42.949572
+  ],
+  "geometry": {"coordinates":[[-87.896339,42.949572],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
