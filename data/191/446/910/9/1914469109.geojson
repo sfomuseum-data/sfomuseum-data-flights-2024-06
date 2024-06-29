@@ -2,10 +2,12 @@
   "id": 1914469109,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-06-28",
-    "date:inception_upper": "2024-06-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-28",
+    "date:cessation_lower": "2024-06-29",
+    "date:cessation_upper": "2024-06-29",
+    "date:inception_lower": "2024-06-29",
+    "date:inception_upper": "2024-06-29",
+    "edtf:cessation": "2024-06-29T09:21:00Z",
+    "edtf:inception": "2024-06-29T05:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "ITY",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20240628-D-ITY-2750",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N815DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90391022",
+      "swim:gufi": "KO14161700"
+    },
     "wof:country": "US",
     "wof:created": 1719678822,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -92,9 +105,10 @@
       102527513,
       1159284261,
       1763588245,
-      1763699293
+      1763699293,
+      1377564285
     ],
-    "wof:lastmodified": 1719678822,
+    "wof:lastmodified": 1719679627,
     "wof:name": "DL635 (SFO-ATL)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

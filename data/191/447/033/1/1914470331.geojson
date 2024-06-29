@@ -2,10 +2,12 @@
   "id": 1914470331,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-28",
+    "date:cessation_upper": "2024-06-28",
     "date:inception_lower": "2024-06-28",
     "date:inception_upper": "2024-06-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-28",
+    "edtf:cessation": "2024-06-28T10:55:21Z",
+    "edtf:inception": "2024-06-28T00:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "ZG",
     "flysfo:date": "2024-06-28",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90473680"
+    },
     "wof:country": "US",
     "wof:created": 1719679215,
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
@@ -88,7 +93,7 @@
       1813375131,
       1763588419
     ],
-    "wof:lastmodified": 1719679215,
+    "wof:lastmodified": 1719679603,
     "wof:name": "ZG25 (SFO-NRT)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",

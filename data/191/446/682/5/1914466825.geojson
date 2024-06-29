@@ -2,10 +2,12 @@
   "id": 1914466825,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-28",
+    "date:cessation_upper": "2024-06-28",
     "date:inception_lower": "2024-06-28",
     "date:inception_upper": "2024-06-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-28",
+    "edtf:cessation": "2024-06-28T10:11:00Z",
+    "edtf:inception": "2024-06-28T05:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-06-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.283781000000005,
     "geom:longitude": -105.133641,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530849,
@@ -48,6 +52,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90391270",
+      "swim:gufi": "KG08094600"
+    },
     "wof:country": "US",
     "wof:created": 1719678081,
     "wof:geomhash": "1e284fd777a7bf1f8b464fea635cfcb1",
@@ -83,12 +91,13 @@
     ],
     "wof:id": 1914466825,
     "wof:involves": [
+      1377564285,
       102527513,
       102530849,
       1159285413,
       1763588351
     ],
-    "wof:lastmodified": 1719678081,
+    "wof:lastmodified": 1719679635,
     "wof:name": "UA3750 (MKE-SFO)",
     "wof:parent_id": 1763588351,
     "wof:placetype": "custom",
