@@ -2,10 +2,12 @@
   "id": 1914476997,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-30",
+    "date:cessation_upper": "2024-06-30",
     "date:inception_lower": "2024-06-29",
     "date:inception_upper": "2024-06-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-29",
+    "edtf:cessation": "2024-06-30T00:12:00Z",
+    "edtf:inception": "2024-06-29T23:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20240629-D-AFR-2978",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N917DU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90579613",
+      "swim:gufi": "KO79081700"
+    },
     "wof:country": "US",
     "wof:created": 1719765366,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914476997,
     "wof:involves": [
-      102533795,
       102527513,
       1159284261,
       1763588247,
-      1159283627
+      1159283627,
+      1377564285,
+      102533795
     ],
-    "wof:lastmodified": 1719765366,
+    "wof:lastmodified": 1719766237,
     "wof:name": "DL2155 (SFO-LAX)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

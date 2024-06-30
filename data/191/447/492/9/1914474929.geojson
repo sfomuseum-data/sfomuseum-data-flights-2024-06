@@ -2,10 +2,12 @@
   "id": 1914474929,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-30",
+    "date:cessation_upper": "2024-06-30",
     "date:inception_lower": "2024-06-29",
     "date:inception_upper": "2024-06-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-29",
+    "edtf:cessation": "2024-06-30T02:41:46Z",
+    "edtf:inception": "2024-06-29T23:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.8106995,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618057,
     "lbl:longitude": -122.392508,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240629-A-ACA-5510",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +60,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90581914",
+      "swim:gufi": "KL73590700"
+    },
     "wof:country": "US",
     "wof:created": 1719764626,
     "wof:geomhash": "87e43b321087b5e7d68ac47fe0a6e824",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1914474929,
     "wof:involves": [
+      1159289871,
       102527513,
       102536481,
       1159285413,
       1763588451,
       1159283597
     ],
-    "wof:lastmodified": 1719764626,
+    "wof:lastmodified": 1719766232,
     "wof:name": "UA705 (PVR-SFO)",
     "wof:parent_id": 1763588451,
     "wof:placetype": "custom",
