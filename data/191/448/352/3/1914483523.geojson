@@ -2,10 +2,12 @@
   "id": 1914483523,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-30",
+    "date:cessation_upper": "2024-06-30",
     "date:inception_lower": "2024-06-30",
     "date:inception_upper": "2024-06-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-30",
+    "edtf:cessation": "2024-06-30T17:58:00Z",
+    "edtf:inception": "2024-06-30T14:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240630-A-ANA-7241",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N775UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90624062",
+      "swim:gufi": "KG43862100"
+    },
     "wof:country": "US",
     "wof:created": 1719850945,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914483523,
     "wof:involves": [
+      1159289985,
       102527513,
       102533631,
       1159285413,
       1763588325,
       1159283875
     ],
-    "wof:lastmodified": 1719850945,
+    "wof:lastmodified": 1719852612,
     "wof:name": "UA2672 (ORD-SFO)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

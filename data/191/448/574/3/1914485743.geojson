@@ -2,10 +2,12 @@
   "id": 1914485743,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-30",
+    "date:cessation_upper": "2024-06-30",
     "date:inception_lower": "2024-06-30",
     "date:inception_upper": "2024-06-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-30",
+    "edtf:cessation": "2024-06-30T15:44:40Z",
+    "edtf:inception": "2024-06-30T09:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CM",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90606236"
+    },
     "wof:country": "US",
     "wof:created": 1719851703,
     "wof:geomhash": "a1b63305ba93684d4b5beab1220ffb8e",
@@ -94,7 +99,7 @@
       1763588427,
       1159284349
     ],
-    "wof:lastmodified": 1719851703,
+    "wof:lastmodified": 1719852620,
     "wof:name": "CM383 (SFO-PTY)",
     "wof:parent_id": 1763588427,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914483731,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-30",
+    "date:cessation_upper": "2024-06-30",
     "date:inception_lower": "2024-06-30",
     "date:inception_upper": "2024-06-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-30",
+    "edtf:cessation": "2024-06-30T23:17:00Z",
+    "edtf:inception": "2024-06-30T21:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240630-A-ANZ-9880",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +60,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90668159",
+      "swim:gufi": "KS74002100"
+    },
     "wof:country": "US",
     "wof:created": 1719851016,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1914483731,
     "wof:involves": [
-      102527513,
       102555307,
       1159285413,
       1763588285,
-      1159283697
+      1159283697,
+      1159289871,
+      102527513
     ],
-    "wof:lastmodified": 1719851016,
+    "wof:lastmodified": 1719852633,
     "wof:name": "UA733 (YVR-SFO)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",

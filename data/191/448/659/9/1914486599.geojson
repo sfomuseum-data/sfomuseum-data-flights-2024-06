@@ -2,10 +2,12 @@
   "id": 1914486599,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-30",
+    "date:cessation_upper": "2024-06-30",
     "date:inception_lower": "2024-06-30",
     "date:inception_upper": "2024-06-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-30",
+    "edtf:cessation": "2024-06-30T23:56:00Z",
+    "edtf:inception": "2024-06-30T19:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2024-06-30",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "90657538"
+    },
     "wof:country": "US",
     "wof:created": 1719851999,
     "wof:geomhash": "c97739d28e676f0ee62f6ec4585963c5",
@@ -51,7 +56,7 @@
       1763552131,
       -1
     ],
-    "wof:lastmodified": 1719851999,
+    "wof:lastmodified": 1719852623,
     "wof:name": "MX259 (SFO-CVG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

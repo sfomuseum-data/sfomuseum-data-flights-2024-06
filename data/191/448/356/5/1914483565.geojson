@@ -2,10 +2,12 @@
   "id": 1914483565,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-30",
+    "date:cessation_upper": "2024-06-30",
     "date:inception_lower": "2024-06-30",
     "date:inception_upper": "2024-06-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-30",
+    "edtf:cessation": "2024-06-30T18:41:00Z",
+    "edtf:inception": "2024-06-30T17:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-06-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.591019,
     "geom:longitude": -119.2977885,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527733,
@@ -35,6 +39,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "90718257"
+    },
     "wof:country": "US",
     "wof:created": 1719850959,
     "wof:geomhash": "e506e1cc6e68aaf992ce3bac53e4e4fa",
@@ -49,9 +56,9 @@
       102527513,
       102527733,
       1159285413,
-      -1
+      1159292085
     ],
-    "wof:lastmodified": 1719850959,
+    "wof:lastmodified": 1719852612,
     "wof:name": "UA3856 (BOI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

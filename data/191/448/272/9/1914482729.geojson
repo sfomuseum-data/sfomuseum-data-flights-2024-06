@@ -2,10 +2,12 @@
   "id": 1914482729,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-01",
+    "date:cessation_upper": "2024-07-01",
     "date:inception_lower": "2024-06-30",
     "date:inception_upper": "2024-06-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-06-30",
+    "edtf:cessation": "2024-07-01T00:24:00Z",
+    "edtf:inception": "2024-06-30T23:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2024-06-30",
@@ -48,6 +50,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "90677869"
+    },
     "wof:country": "US",
     "wof:created": 1719850665,
     "wof:geomhash": "6d8f05e22cdd419a749a10658572882e",
@@ -88,7 +93,7 @@
       1763552131,
       1763588139
     ],
-    "wof:lastmodified": 1719850665,
+    "wof:lastmodified": 1719852632,
     "wof:name": "MX601 (SBD-SFO)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",
