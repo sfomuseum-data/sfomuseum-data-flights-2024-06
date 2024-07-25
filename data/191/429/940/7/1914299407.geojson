@@ -39,14 +39,51 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1763588121,
+      102527513,
+      1763588233,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1763588255,
+      1763588123,
+      102085387
+    ],
     "wof:country": "US",
     "wof:created": 1718642367,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588233,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1914299407,
-        "flight_id": 1914299407
+        "flight_id": 1914299407,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1763588255,
+        "wing_id": 1763588123
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588233,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1914299407,
+        "flight_id": 1914299407,
+        "region_id": 85688637,
+        "venue_id": 1763588255,
+        "wing_id": 1763588123
       }
     ],
     "wof:id": 1914299407,
@@ -57,9 +94,9 @@
       1763588255,
       1763699293
     ],
-    "wof:lastmodified": 1718642367,
+    "wof:lastmodified": 1721928663,
     "wof:name": "LA7994 (SFO-LAX)",
-    "wof:parent_id": -1,
+    "wof:parent_id": 1763588255,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "flight"
